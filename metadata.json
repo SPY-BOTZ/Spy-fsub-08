@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Bot Generator",
+  "description": "Provides the Python source code and deployment instructions for a Telegram group management bot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
